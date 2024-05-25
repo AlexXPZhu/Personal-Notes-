@@ -2,18 +2,18 @@
 
 ## 1 AI & machine Leaning & Deep learning & Nerual network 的概念区别
 
-AI 最大，包含后面概念：
+- AI 最大，包含后面概念：
 1. 也许人们并不这么认为，但Tic tac toe, Pac Man 吃豆人都是属于AI的范畴
 
-Mahine Learning: 
+- Mahine Learning: 
 
 
-Deep Learning：
+- Deep Learning：
 是机器学习的一个重要领域，特别关注使用神经网络
 相较于让程序员来指定 “游戏规则”，DL 只会给出 input 和 output 的数据，其中的规律由机器自己来学习发现
 ![alt text](./图片库/image.png)
 
-Neural network神经网络:
+- Neural network神经网络:
 是深度学习的核心板块
 1. 相比上面，是最小的概念，是某种特殊的机器学习
 2. 定义： it is a form of machine learning that use the layed representation of data
@@ -100,7 +100,9 @@ tensorflow 是一个由谷歌开发管理的拥有的开源的machine learning p
 **a tensor is a generalization of vector and metrics to potential higher dimension.**
 张量是向量和矩阵向更高维度的拓展
 > 标量是 一种 0 维张量 1
+> 
 > 向量是 一种 1 维张量 [1,2,3]
+> 
 > 矩阵是 一种 2 维张量 [ [1,2,3], [4,5,6] ]
 
 Tensor 是tensorflow的主要操作对象，它会被传递，运算等等。
