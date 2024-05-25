@@ -7,6 +7,13 @@ This repository is intended to work as a personal notebook, containing the notes
 ## Content 内容
 将会涉及的内容
 
-The content in this repository 
+The content in this repository are
 
+|Name|time peroid|
+|---|---|
+|Java basic| |
+|Java Web| |
+|python basic (CS 61A)| |
+|TensorFlow| |
+|Vue3| |
 
